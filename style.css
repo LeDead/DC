@@ -17,8 +17,8 @@ body{
   }
   /*Header */
   header{
-    background:#42663d;
-    color:#000000;
+    background:#000000;
+    color:#ffffff;
     padding-top:30px;
     min-height:70px;
     border-bottom:#998877 3px solid;
@@ -53,7 +53,7 @@ header a:hover{
 footer{
   padding:20px
   margin-top:20px;
-  color:#000000;
-  background-color:#42663d;
+  color:#ffffff;
+  background-color:000000;
   text-align:center;
 }
